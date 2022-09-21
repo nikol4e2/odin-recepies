@@ -1,2 +1,2 @@
 # odin-recepies
-Recepies page
+Recepies page, learning first commits and pushes.
